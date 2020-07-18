@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+    background-color: #f0f0f0;
+}
+
+.tagImg{
+  margin-bottom: 2%;
+}
+
+.btn{
+  margin-left: 1rem;
+}
+
+form{
+  display: inline-block;
+}
+
+@media only screen and (max-width: 650px) {
+  .tagImg{
+    width: 400px;
+    height: 300px;
+  }
+}

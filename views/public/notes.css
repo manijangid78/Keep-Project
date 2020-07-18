@@ -1,0 +1,23 @@
+body{
+  background-color: #f0f0f0;
+}
+
+.notesArea{
+  margin: 2%;
+  border-radius: 4%;
+  border-color: #008ECC;
+}
+
+.form-control{
+  margin: 2% auto;
+  width: 50%;
+}
+
+.container{
+  margin: auto;
+  margin-top: 2%;
+}
+
+.card{
+  margin-top: 1rem;
+}
